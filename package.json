@@ -1,0 +1,18 @@
+{
+  "name": "typescript_mssql_sequelize-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^5.21.3",
+    "sequelize-cli-typescript": "^3.2.0-c",
+    "tedious": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.29",
+    "@types/node": "^13.5.0",
+    "@types/validator": "^12.0.1",
+    "ts-node-dev": "^1.0.0-pre.42",
+    "typescript": "^3.6.2"
+  }
+}
